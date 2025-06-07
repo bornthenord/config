@@ -2,4 +2,4 @@
 
 cp .vimrc ~/.vimrc
 cp .ideavimrc ~/.ideavimrc
-echo "keyboarg.config нужно руками"
+echo "hotpaws.config нужно руками"
